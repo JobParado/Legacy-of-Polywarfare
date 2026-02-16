@@ -6,6 +6,12 @@ A tactical wargame featuring strategic unit placement, three distinct unit class
 
 **Legacy of PolyWarfare** is a Unity-based tactical battle system where two teams face off on a procedurally-defined grid battlefield. Players deploy units strategically across their starting zone, then watch as AI-controlled units engage in real-time combat. The last team standing wins!
 
+GamePlay Preview:
+<video src="video/gameplay.gif" alt="gameplay showcase"></video>
+
+Download Link:
+https://drive.google.com/file/d/18zzijx9X2Z4vCAREgNekqbD7pXUZ535P/view?usp=sharing
+
 ### Key Features
 - 🏗️ **Custom Battle Editor** - Intuitive grid-based unit placement system
 - 🤖 **Advanced AI System** - Intelligent enemy targeting and state management
